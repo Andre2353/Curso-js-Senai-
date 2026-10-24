@@ -15,6 +15,10 @@
 // ]);
 
 // object
-let aluno = {}
+let aluno = {
+    nome : "andre",
+    idade: "18",
+    email :"quero minha casa"
+}
 
 
