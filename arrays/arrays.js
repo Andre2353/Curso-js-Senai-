@@ -7,11 +7,11 @@
 
 let frutas = ["maça","pera"]
 
-frutas.unshift("morango")
-frutas.push("Uvaia")
-frutas.splice(2,0,"acerola")
-frutas.pop()
-frutas.shift()
-console.log(frutas);
+// frutas.unshift("morango")
+// frutas.push("Uvaia")
+// frutas.splice(2,0,"acerola")
+// frutas.pop()
+// frutas.shift()
+console.log(frutas.length);
 
 
