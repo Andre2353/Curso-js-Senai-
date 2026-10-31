@@ -20,7 +20,10 @@ switch (dia) {
     case 6:
         console.log("sexta");
         break;
+    case 7:
+        console.log("sabado");
+        break;
     default:
-        console.log("Sabado");
+        console.log("Não é um doa da semana");
         break;
 }
