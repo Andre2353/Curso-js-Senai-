@@ -41,3 +41,8 @@
 // }
 // somar(19,444)
 
+// function saudarPessoa(nome) {
+//     console.log(`ola, ${nome} seja bemi-Vindo(a)!`);
+    
+// }
+// saudarPessoa("aaaaaaaaaaa")
