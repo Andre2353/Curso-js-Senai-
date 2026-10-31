@@ -58,3 +58,15 @@
 // }
 // let result = dobrar(64)
 // console.log(result);
+
+// function quadrado(n){
+//     return n*n
+// }
+// let result = quadrado(64)
+// console.log(result);
+
+function triplo(n) {
+    n*3   
+}
+let result = triplo(64)
+console.log(result);
