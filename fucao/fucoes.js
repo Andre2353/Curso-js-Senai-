@@ -85,6 +85,6 @@
 // console.log(`convertendo ${cesius} cecios para faherehaert vai ficar ${convert}`);
 // celsiusParaFahrenheit(12)
 
-const dobrar = (n)=>{
-
-}
+const dobrar = (n)=> n *2
+let result = dobrar(4)
+console.log(result)
