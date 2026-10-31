@@ -5,13 +5,13 @@
 // console.log(idades[4]);
 // console.log(idades[0]);
 
-let frutas = ["maça","pera"]
+// let frutas = ["maça","pera"]
 
-// frutas.unshift("morango")
-// frutas.push("Uvaia")
-// frutas.splice(2,0,"acerola")
-// frutas.pop()
-// frutas.shift()
-console.log(frutas.length);
+// // frutas.unshift("morango")
+// // frutas.push("Uvaia")
+// // frutas.splice(2,0,"acerola")
+// // frutas.pop()
+// // frutas.shift()
+// console.log(frutas.length);
 
 
