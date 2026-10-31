@@ -46,3 +46,15 @@
     
 // }
 // saudarPessoa("aaaaaaaaaaa")
+
+// function dobro(numero) {
+//     let result = numero * 2
+//     console.log(`o dobro de ${numero} é ${result}`);
+// }
+// dobro(12)
+
+// function dobrar(n) {
+//     n*2   
+// }
+// let result = dobrar(64)
+// console.log(result);
