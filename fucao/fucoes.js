@@ -71,8 +71,20 @@
 // let result = triplo(64)
 // console.log(result);
 
-function nomecompleto(nome,sobrenome) {
-    console.log(`ola, ${nome} ${sobrenome}`);
+// function nomecompleto(nome,sobrenome) {
+//     console.log(`ola, ${nome} ${sobrenome}`);
     
+// }
+// nomecompleto("Patrik","jane")
+
+// function celsiusParaFahrenheit(cesius) {
+//     let convert = cesius *1.8 + 32
+//     return convert
+    
+// }
+// console.log(`convertendo ${cesius} cecios para faherehaert vai ficar ${convert}`);
+// celsiusParaFahrenheit(12)
+
+const dobrar = (n)=>{
+
 }
-nomecompleto("Patrik","jane")
