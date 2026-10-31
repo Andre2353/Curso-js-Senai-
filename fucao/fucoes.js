@@ -65,8 +65,14 @@
 // let result = quadrado(64)
 // console.log(result);
 
-function triplo(n) {
-    n*3   
+// function triplo(n) {
+//     n*3   
+// }
+// let result = triplo(64)
+// console.log(result);
+
+function nomecompleto(nome,sobrenome) {
+    console.log(`ola, ${nome} ${sobrenome}`);
+    
 }
-let result = triplo(64)
-console.log(result);
+nomecompleto("Patrik","jane")
