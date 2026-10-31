@@ -15,10 +15,16 @@
 // ]);
 
 // object
-let aluno = {
-    nome : "andre",
-    idade: "18",
-    email :"quero minha casa"
+// let aluno = {
+//     nome : "andre",
+//     idade: "18",
+//     email :"quero minha casa"
+// }
+// console.log(aluno.idade);
+
+let livros = {
+    Titulo : "lala",autor: "ze pequeno",paginas :"quero minha casa"
 }
+console.log(livros.paginas);
 
 
