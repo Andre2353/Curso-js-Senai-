@@ -9,6 +9,9 @@
 // console.log(paragrafo4);
 
 
-const title = document.getElementById("title")
+// const title = document.getElementById("title")
+const dada = document.getElementById("dada")
 
-title.innerText = "Troquei"
+// title.innerText = "Troquei"
+dada.innerText = "colocando outro titulo "
+dada.style.color = "green"
