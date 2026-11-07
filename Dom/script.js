@@ -10,8 +10,11 @@
 
 
 // const title = document.getElementById("title")
-const dada = document.getElementById("dada")
+// const dada = document.getElementById("dada")
 
 // title.innerText = "Troquei"
-dada.innerText = "colocando outro titulo "
-dada.style.color = "green"
+// dada.innerText = "colocando outro titulo "
+// dada.style.color = "green"
+// dada.style.fontSize = "90px"
+// dada.style.backgroundColor = "aqua"
+
