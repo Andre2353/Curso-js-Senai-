@@ -18,12 +18,21 @@
 // dada.style.fontSize = "90px"
 // dada.style.backgroundColor = "aqua"
 
+// const paragrafo = document.getElementById("paragrafo")
+// const btn = document.getElementById("btn")
+
+// btn.addEventListener("click", function(){
+//     paragrafo.innerText= "você vai para o inferno de !!!"
+//     paragrafo.style.color = "red"
+//     paragrafo.style.backgroundColor = "black"
+    
+// })
 const paragrafo = document.getElementById("paragrafo")
 const btn = document.getElementById("btn")
 
-btn.addEventListener("click", function(){
-    paragrafo.innerText= "você vai para o inferno de toubogan!!!"
+btn.addEventListener("click", function() {
+    paragrafo.innerText = "alterado com sucesso"
+    paragrafo.style.fontSize = "50px"
     paragrafo.style.color = "red"
     paragrafo.style.backgroundColor = "black"
-    
 })
