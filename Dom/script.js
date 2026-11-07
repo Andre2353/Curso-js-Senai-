@@ -18,3 +18,12 @@
 // dada.style.fontSize = "90px"
 // dada.style.backgroundColor = "aqua"
 
+const paragrafo = document.getElementById("paragrafo")
+const btn = document.getElementById("btn")
+
+btn.addEventListener("click", function(){
+    paragrafo.innerText= "você vai para o inferno de toubogan!!!"
+    paragrafo.style.color = "red"
+    paragrafo.style.backgroundColor = "black"
+    
+})
