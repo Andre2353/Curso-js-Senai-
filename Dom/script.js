@@ -9,3 +9,6 @@
 // console.log(paragrafo4);
 
 
+const title = document.getElementById("title")
+
+title.innerText = "Troquei"
