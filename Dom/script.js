@@ -4,3 +4,6 @@ const paragrafo3 = document.getElementById("Paragrafo2")
 const paragrafo4 = document.getElementById("Paragrafo2")
 
 console.log(paragrafo);
+console.log(paragrafo2);
+console.log(paragrafo3);
+console.log(paragrafo4);
