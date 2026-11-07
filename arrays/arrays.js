@@ -14,9 +14,11 @@
 // // frutas.shift()
 // console.log(frutas.length);
 
-let nome = ["andre","aaaaaa","bbbbbbb","cccccc"]
+// let nome = ["andre","aaaaaa","bbbbbbb","cccccc"]
+// nome.forEach((elemento) => {
+//     console.log(`bom dia ${elemento}`);  
+// })
+let nomes = ["dada","dudu","edu"]
 
-nome.forEach((elemento) => {
-    console.log(`bom dia ${elemento}`);
-    
-})
+nomes.forEach((nome)=> console.log(`bom dia ${nome}`)
+)
