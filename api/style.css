@@ -1,4 +1,10 @@
 .box{
     background-color: #add8e6;
     padding: 25px;
+    width: 250px;
+}
+.conteiner{
+    display: grid;
+    grid-template-columns: repeat(4, max-content);
+    gap: 20px;
 }
