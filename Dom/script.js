@@ -27,12 +27,15 @@
 //     paragrafo.style.backgroundColor = "black"
     
 // })
-const paragrafo = document.getElementById("paragrafo")
-const btn = document.getElementById("btn")
+// const paragrafo = document.getElementById("paragrafo")
+// const btn = document.getElementById("btn")
+// const img = document.getElementById("img")
 
-btn.addEventListener("click", function() {
-    paragrafo.innerText = "alterado com sucesso"
-    paragrafo.style.fontSize = "50px"
-    paragrafo.style.color = "red"
-    paragrafo.style.backgroundColor = "black"
-})
+// btn.addEventListener("click", function() {
+//     paragrafo.innerText = "Meu Medo"
+//     paragrafo.style.fontSize = "50px"
+//     paragrafo.style.color = "red"
+//     paragrafo.style.backgroundColor = "black"
+//     img.src = "https://imgs.search.brave.com/AjlhrIZuYxGLxZes4-Gl1r1l95_aQV5KJ4GJCzCO6Ao/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YXV0b2VudHVzaWFz/dGFzLmNvbS5ici9h/ZS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/Ni8xMi91bm8tNy5q/cGc"
+// })
+
