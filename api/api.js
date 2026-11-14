@@ -9,5 +9,10 @@ fetch("https://jsonplaceholder.typicode.com/users")
     .then((res) => res.json())
     .then((data) => {
         console.log(data);
+        data.forEach(user => {
+          const card = document.createElement("div")
+          card.className = "box"
+            
+        });
 
     })
